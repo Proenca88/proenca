@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "electric-node-455114-c7",
+  "private_key_id": "94f98248a64de44dc1e1619e3d04f6fe67c73ea1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/Oqarahgr6GsM\ncug+gAB1Sby1lB0E9edcvOuKwsq4JbD3M0hdzVEA8yyL3uDMnjKu9y5rlFgZK9H6\n/zJ8rZd24nUluQbdTmDIT+KPuCYeisGrNy+fZ9DtV0YtUnn3zRqL1PsW6pCO0hUO\nNfFtkSXi9XtmxfeMaCVLhMUYm4jq4X3xOeMehG8SgoaO/HGMVtIf6OnPvidyA69W\ngBQvA/IWFkQvDoPql3tVrvcikjtrYDTrqUHmrT7Zz9MscrCfgaMBCS2YjSzGCyuQ\n75MnOlFD9R/awHBzQ99RB2keEx+ZlfUJBILVqBrNo+uJS5Ntttn3c/l8cMl8aRlD\nFvuc21LRAgMBAAECggEABihu7w9XesHSgVVe8LT3BCU30DdrjXoXX/djygq2nqJK\nFf/JrrRFTZecbDRPvrnBGJIe+s8NXOF6HXrOfFDWaI6SJquUEsLVdNs2XhntklIL\nZVvS1a+GZ7+FzpZSFVPTwm59QnI9wvegFB59E+HsG32mYmYcGreiLHx4oK+mLlK+\nd+j/qc9lEtq6R01ulaCzt1B7oABb1ypp4LRVnzrmpxl+F6RLbrveIHhMcxpuWrRu\n4U3eyrDK9nVitYNXIBly7mqD/sT3wMr/u2dezSYK9bIQAjhpr4AuYemxMgGsiUXl\nClPd9lsXd4MESYxy8Ufq9GDVHHFCZosFnJecT9Ws8QKBgQDuQtUr35I84vXMYG3I\nd+AfN1YPUSooC8aq6/LPqP9zUkneFsJLiPz0OMItljKaNtd4PslrIoRTgFHBpnyh\nxbbTHYazjPo8eTZuCE8COGjjRrU3Ku5aj65ycjRBfmFr67/DDDIFlLK14eHhTUNX\ncqhWG3yk75S2S3XaE8Yv1w12aQKBgQDNd2gdDW1aW3xLeA0u4+MxbPOpItg6xjVz\nZOpzENNupD30o9mzfYR3r8/Q1Aw9Lzj65StHHaapZBBw0bLmZLSet3kWJdxdXtgi\nQeKPeZZkd+eQv4n2R6JrO0TX0p3qB3zwWISy5z+XsaVLmUuwouBPeybU8k4Rfyjd\nPS2HVYT8KQKBgEu4eb8DwpoPF0bornszfcrt7y/W/6rSc0UGz5gngWfJEyi92une\nk2WaVDvgrBxOqZPRgHnH8n4HHfSJULqo9z2I+LI/b5egfifiBBoUi2EPq6/ouO+X\nEj3VBb56x8NgnQUD7zHO3CzpqLvNrkUwb0dOXQKeEYkN2lqARlAV7HVhAoGBAKDE\n3eJdr0MUcp1awnX+Ordh2QZvDWJv1UMFo62FbOsV+KSD0MRxYkWEe8ebJDh7ysoG\np2Zt/QpuEa81ZhaAlhPa3BRIa7VjkRq9EtnQ+ayDZd4NAZaDVsMxDR0S4B1O3qPx\nn2OdLlUz23Lb8C22RG3snuXg8tUd+ouiYw2SDQyBAoGBAJW2w9KmnO1D0MJKkPfj\ntN/Qiai2sOQZ9tpgwOfos4e9CTA/m6lWkJl3AA6ETb9666DoesA8KQTLieHwjLgW\nK42zAuHU+M/0mRbFx4I/IuL936MZItc9TJn/D5s4tBn6a4sFM/zhYCe3i7UWX4Oi\nmhYAWHbqWuUfeHNi/M2LrT25\n-----END PRIVATE KEY-----\n",
+  "client_email": "materia-prima-bot@electric-node-455114-c7.iam.gserviceaccount.com",
+  "client_id": "110746440188262110137",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/materia-prima-bot%40electric-node-455114-c7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
